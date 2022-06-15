@@ -4,6 +4,8 @@ A subtitle reader/renderer for the Panda3D game engine
 ## Features
 This library extends the game engine by a simple subtitle reader/renderer. You just open an existing subtitle file, sync it to the audio or video and you'll have subtitles in your panda3d application.
 
+Currently this library only supports SubRip subtitle (.srt) files.
+
 ## Install
 Install the subtitler via pip
 
